@@ -1,1 +1,1 @@
-worker: python web.py
+worker: python newfile.py
